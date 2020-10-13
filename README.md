@@ -2,7 +2,8 @@
 
 ## Repo for assignment a:3
 
-### Team Lead: Kyrrah (creates repo, invites collaborators, ensure slack group channel is created and members invited)
+### Team Lead: Kyrrah 
+Creates repo, invites collaborators, ensure slack group channel is created and members invited.
 
 In succession, each team member will:
 
