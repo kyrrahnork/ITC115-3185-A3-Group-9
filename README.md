@@ -11,6 +11,7 @@ In succession, each team member will:
 2. Make additions as necessary
 3. Create Pull Request
 4. Assign reviewer to your branch/pull request
+5. Review the branch you were assigned, comment, close, and merge
 - Reviewer will be the teammate directly below you
 - The final team member will assign the first team member as your reviewer
 
